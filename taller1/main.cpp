@@ -21,17 +21,30 @@ void dibujar()
     glBegin (GL_LINES);
     glColor3f(0.0,0.0,0.0);
 
-    glVertex2d(-20,11);
-    glVertex2i(-20,-45);
+    glVertex2d(-18,9);
+    glVertex2i(-18,-48);
 
-    /*glBegin(GL_POINTS);
-    glEnd();
+    glVertex2d(-18,9);
+    glVertex2i(-15,9);
 
-    for(double i=0.0; i<10; i+=0.001){
-        calx=3*cos(i);
+    glVertex2d(-15,9);
+    glVertex2i(-15,-40);
 
-    }*/
+    glVertex2d(-5,-40);
+    glVertex2i(-15,-40);
 
+    glVertex2d(-5,-40);
+    glVertex2i(-15,-40);
+
+    glVertex2d(-5,-48);
+    glVertex2i(-18,-48);
+
+    glVertex2d(-5,-40);
+    glVertex2i(-5,-48);
+
+
+
+ //Display Jr
 
     glEnd();
 

@@ -226,3 +226,8 @@
 1341006774 c:\program files (x86)\codeblocks\mingw\include\math.h
 	<_mingw.h>
 
+1661729282 source:c:\users\lfceb\onedrive\documentos\github\open_gl\taller1\main.cpp
+	<windows.h>
+	<GL/glut.h>
+	<math.h>
+
